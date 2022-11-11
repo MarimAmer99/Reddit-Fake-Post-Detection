@@ -2,7 +2,7 @@
 
 Input:
 
-Text column
+Text column.
 
 Output:
 
